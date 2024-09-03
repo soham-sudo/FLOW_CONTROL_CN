@@ -1,0 +1,63 @@
+
+1 is sending data to 1--------------------
+Total packet sent = 88
+Effective packet sent = 64
+Total time taken = 0.292766 minutes
+Receiver Throughput =   2098 bps
+Utilization percentage =  52.47 %
+Average Successful Transmission time of a packet = 0.274468 seconds/packet
+
+
+1 is sending data to 1--------------------
+Total packet sent = 231
+Effective packet sent = 64
+Total time taken = 0.919768 minutes
+Receiver Throughput =    667 bps
+Utilization percentage =  16.70 %
+Average Successful Transmission time of a packet = 0.862283 seconds/packet
+
+
+1 is sending data to 1--------------------
+Total packet sent = 214
+Effective packet sent = 64
+Total time taken = 2.001687 minutes
+Receiver Throughput =    306 bps
+Utilization percentage =   7.67 %
+Average Successful Transmission time of a packet = 1.876581 seconds/packet
+
+
+1 is sending data to 1--------------------
+Total packet sent = 200
+Effective packet sent = 64
+Total time taken = 2.053130 minutes
+Receiver Throughput =    299 bps
+Utilization percentage =   7.48 %
+Average Successful Transmission time of a packet = 1.924809 seconds/packet
+
+
+1 is sending data to 1--------------------
+Total packet sent = 222
+Effective packet sent = 64
+Total time taken = 0.831796 minutes
+Receiver Throughput =    738 bps
+Utilization percentage =  18.47 %
+Average Successful Transmission time of a packet = 0.779808 seconds/packet
+
+
+1 is sending data to 1--------------------
+Total packet sent = 186
+Effective packet sent = 64
+Total time taken = 0.739708 minutes
+Receiver Throughput =    830 bps
+Utilization percentage =  20.76 %
+Average Successful Transmission time of a packet = 0.693477 seconds/packet
+
+
+1 is sending data to 1--------------------
+Total packet sent = 412
+Effective packet sent = 64
+Total time taken = 1.905613 minutes
+Receiver Throughput =    322 bps
+Utilization percentage =   8.06 %
+Average Successful Transmission time of a packet = 1.786512 seconds/packet
+
